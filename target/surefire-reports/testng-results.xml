@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50913" started-at="2018-09-09T11:26:33Z" finished-at="2018-09-09T11:27:24Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50913" started-at="2018-09-09T11:26:33Z" finished-at="2018-09-09T11:27:24Z">
+      <class name="com.myntra.testframework.testcases.LoginPageTestCases">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.myntra.testframework.testcases.LoginPageTestCases@13fee20c]" name="beforeMethod" is-config="true" duration-ms="7657" started-at="2018-09-09T16:56:52Z" finished-at="2018-09-09T16:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="chechLoginButton()[pri:0, instance:com.myntra.testframework.testcases.LoginPageTestCases@13fee20c]" name="chechLoginButton" duration-ms="4175" started-at="2018-09-09T16:56:59Z" finished-at="2018-09-09T16:57:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chechLoginButton -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.myntra.testframework.testcases.LoginPageTestCases@13fee20c]" name="afterMethod" is-config="true" duration-ms="306" started-at="2018-09-09T16:57:04Z" finished-at="2018-09-09T16:57:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.myntra.testframework.testcases.LoginPageTestCases@13fee20c]" name="beforeMethod" is-config="true" duration-ms="419" started-at="2018-09-09T16:57:04Z" finished-at="2018-09-09T16:57:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="checkLoginSignUpLink()[pri:0, instance:com.myntra.testframework.testcases.LoginPageTestCases@13fee20c]" name="checkLoginSignUpLink" duration-ms="4544" started-at="2018-09-09T16:57:04Z" finished-at="2018-09-09T16:57:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoginSignUpLink -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.myntra.testframework.testcases.LoginPageTestCases@13fee20c]" name="afterMethod" is-config="true" duration-ms="3821" started-at="2018-09-09T16:57:09Z" finished-at="2018-09-09T16:57:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.myntra.testframework.testcases.LoginPageTestCases@13fee20c]" name="beforeMethod" is-config="true" duration-ms="32" started-at="2018-09-09T16:57:13Z" finished-at="2018-09-09T16:57:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="checkYourAccountLink()[pri:0, instance:com.myntra.testframework.testcases.LoginPageTestCases@13fee20c]" name="checkYourAccountLink" duration-ms="1" started-at="2018-09-09T16:57:13Z" finished-at="2018-09-09T16:57:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkYourAccountLink -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.myntra.testframework.testcases.LoginPageTestCases@13fee20c]" name="afterMethod" is-config="true" duration-ms="115" started-at="2018-09-09T16:57:13Z" finished-at="2018-09-09T16:57:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.myntra.testframework.testcases.LoginPageTestCases -->
+      <class name="com.myntra.testframework.testcases.HomePageTestCases">
+        <test-method status="PASS" signature="beforeTestCase()[pri:0, instance:com.myntra.testframework.testcases.HomePageTestCases@3f2a3a5]" name="beforeTestCase" is-config="true" duration-ms="9896" started-at="2018-09-09T16:56:33Z" finished-at="2018-09-09T16:56:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.myntra.testframework.testcases.LoginPageTestCases@13fee20c]" name="beforeTest" is-config="true" duration-ms="8419" started-at="2018-09-09T16:56:43Z" finished-at="2018-09-09T16:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTestmethod()[pri:0, instance:com.myntra.testframework.testcases.HomePageTestCases@3f2a3a5]" name="beforeTestmethod" is-config="true" duration-ms="6421" started-at="2018-09-09T16:57:13Z" finished-at="2018-09-09T16:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestmethod -->
+        <test-method status="PASS" signature="tabsPresentOrNot()[pri:0, instance:com.myntra.testframework.testcases.HomePageTestCases@3f2a3a5]" name="tabsPresentOrNot" duration-ms="4497" started-at="2018-09-09T16:57:19Z" finished-at="2018-09-09T16:57:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tabsPresentOrNot -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.myntra.testframework.testcases.HomePageTestCases@3f2a3a5]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-09-09T16:57:24Z" finished-at="2018-09-09T16:57:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tabsPresentOrNot status=SUCCESS method=HomePageTestCases.tabsPresentOrNot()[pri:0, instance:com.myntra.testframework.testcases.HomePageTestCases@3f2a3a5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="closeAll()[pri:0, instance:com.myntra.testframework.testcases.HomePageTestCases@3f2a3a5]" name="closeAll" is-config="true" duration-ms="440" started-at="2018-09-09T16:57:24Z" finished-at="2018-09-09T16:57:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+        <test-method status="PASS" signature="closeAll()[pri:0, instance:com.myntra.testframework.testcases.LoginPageTestCases@13fee20c]" name="closeAll" is-config="true" duration-ms="133" started-at="2018-09-09T16:57:24Z" finished-at="2018-09-09T16:57:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+      </class> <!-- com.myntra.testframework.testcases.HomePageTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
